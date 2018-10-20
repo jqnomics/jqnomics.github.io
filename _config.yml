@@ -1,0 +1,18 @@
+permalink: /:categories/:title.html
+url: "http://jqnomics.com/"
+full_name: "jqnomics"
+first_name: "Jayquel"
+last_name: "Penaloga"
+sitename: jqnomics
+blog_title: "jqnomics "
+author_img_name_path: "/images/users/jq2.jpg"
+disqus_shortname: "jqnomics"
+copyright_year: "2018"
+google_analytics_code: ""
+aboutme: "Of books, dogs, and economics"
+twitter: "jayquelpenaloga"
+github: "jayquelpenaloga"
+facebook: "jayquelpenaloga"
+linkedin_url: ""
+baseurl: ""
+# other options
