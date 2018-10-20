@@ -7,4 +7,6 @@ summary: Kahimunan is an annual marketing event for MSMEs in...
 image: /images/blog/tradefair.jpg
 ---
 
-Bawal ang upper case sa file name?
+
+![Kahimunan](/images/blog/tradefair.jpg){:class="img-responsive"}
+Kahimunan opens today.
