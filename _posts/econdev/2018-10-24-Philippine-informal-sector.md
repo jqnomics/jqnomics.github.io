@@ -10,7 +10,7 @@ image: /images/blog/sidewalk.jpeg
 
 ![Sidewalk](/images/blog/sidewalk.jpeg){:class="img-responsive"}
 
-On an average sidewalk in a city in developing coutries, one can encounter all sorts of businesses; ranging from the local street foods, plastic toys and balloons of cartoon characters, men and children would offer to shine your shoes for 20 pesos and others would offer to fix your old watch, sometimes one could pass by oddities of fortune tellers, lottery guessers, and snake charmers. In fact, these businesses would extend to the busy city streets, a boy carrying a wooden box would sell basic necessities of water, candies and cigarettes when the traffic lights would turn red, teenagers hanging from a jeepney would call out and usher passengers in, and a kid would signal his arms when one would park a car at an establishment. 
+On an average sidewalk in a city in developing coutries, one can encounter all sorts of businesses; ranging from the local street foods, plastic toys and balloons of cartoon characters, men and children would offer to shine your shoes for 20 pesos and others would offer to fix your old watch, sometimes one could pass by oddities of fortune tellers, lottery guessers, and snake charmers. In fact, these businesses would extend to the busy city streets, a boy carrying a wooden box would sell basic necessities of water, candies and cigarettes when the traffic lights would turn red, teenagers hanging from a jeepney would call out and usher passengers in, and a kid would signal his arms when one would park a car at an establishment.
 
 They are the vendors selling your favorite street food, the jeepney drivers plying highways for over 12 hours to have a decent profit, the domestic helpers, carpenters, artisans and also the smugglers, drug peddlers, and prostitutes. They are just some of the workers in the so-called informal economy. The International Labor Organization (ILO) defines informal economy workers as those "independent, self-employed, small-scale producers and distributors of goods and services.”  The National Statistical Coordination Board (NSCB) adopted a more nuanced definition of the informal sector: “The IS [informal sector] consists of “units” engaged in the production of goods and services with the primary objective of generating employment and incomes to the persons concerned in order to earn a living.” These units typically operate at a low level organization with little to no division between labor and capital as factors of production. It consists of household unincorporated enterprises that are market and non-market producers of goods as well as market producer of services. This means these are owned or operated by households engaged in the production of goods and/or services that are not constituted as legal entities independent of the households or household members that own them.
 
@@ -59,11 +59,19 @@ The informal employment is the main source of employment and income for a substa
 *As compiled by Ageas C.,Chua A.J, Pahilangco E., Miso H.
 
 REFERENCES:
+
 Heintz, James. Globalization, Economic Policy and Employment: Poverty and Gender Implications. 2006
+
 Heintz, J & Pollin, Robert. Informalization, Economic Growth and the Challenge of Creating Viable Labor Standards in Developing Countries. 2003
+
 Skeldon, Ronald.. Migration and Poverty. Asia-Pacific Population Journal, 17, 67-82. 2002
+
 Santiago, Levy. Good Intentions, Bad Outcomes: Informality, Productivity, and Growth in Mexico. 2007
+
 Todaro, M. P., & Smith, S. C.  Economic development (11th ed.). Harlow: Pearson Education Limited. 2011
+
 United Nations Population Fund. The World's Cities in 2016. 2016
+
 Informal Labor Organization. Informal economy. 2002
+
 National Statistical Coordination Board (NSCB). NSCB Resolution No. 15, series of 2002. 2002
