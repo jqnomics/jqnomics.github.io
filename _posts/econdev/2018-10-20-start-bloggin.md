@@ -1,11 +1,12 @@
 ---
 layout: blog
-title: Rising from the Rubbles
+title: About this blog
 category: blog
-tags: [Marawi, economics,economic development]  
-summary: How SME Development can improve Marawi
+tags: [economic development]  
+summary: What's the sense of this blog.
 image: /images/blog/jqnomics.png
 comments: true
 ---
 
-This is a sample post
+I always wanted to write about economics and how it can help us in our everyday lives.
+I really want to promote it as a tool for a good living and of course, good decision making. More than the boring statistics it brings, may this blog enlighten you how to act rationally.
