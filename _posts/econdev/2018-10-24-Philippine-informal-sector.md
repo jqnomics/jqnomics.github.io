@@ -4,7 +4,7 @@ title: The Beautiful Truth in the Ugly Facade of Informal Sectors
 category: blog
 tags: [development, economics, poverty, sidewalk]  
 summary: How the informal sector helps the economy...
-image: /images/blog/sidewalk.jpeg
+image: /images/blog/sidewalk2.jpeg
 ---
 
 
