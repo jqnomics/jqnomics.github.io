@@ -54,10 +54,7 @@ To ensure policy responses are appropriate to the constraints and risks faced by
 
 The informal employment is the main source of employment and income for a substantial number of the workforce in the developing world. Both informal enterprises and the informal workforce need to be valued for their contributions and integrated into economic planning and legal frameworks. Such reasons deem that the urban sector should be promoted so that it could to achieve an inclusive and sustainable economic growth that will give benefits such as higher employment opportunities and productivity that would be available for all.
 
-
-
-*As compiled by Ageas C.,Chua A.J, Pahilangco E., Miso H.
-
+'''
 REFERENCES:
 
 Heintz, James. Globalization, Economic Policy and Employment: Poverty and Gender Implications. 2006
@@ -75,3 +72,6 @@ United Nations Population Fund. The World's Cities in 2016. 2016
 Informal Labor Organization. Informal economy. 2002
 
 National Statistical Coordination Board (NSCB). NSCB Resolution No. 15, series of 2002. 2002
+
+-As compiled by Ageas C.,Chua A.J, Pahilangco E., Miso H.
+'''
