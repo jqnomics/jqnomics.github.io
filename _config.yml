@@ -17,3 +17,5 @@ linkedin_url: ""
 baseurl: ""
 comments: true
 # other options
+
+theme: jekyll-theme-cayman
